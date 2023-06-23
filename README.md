@@ -36,9 +36,6 @@ Greedy algorithms aim to solve optimization problems by making locally optimal c
 
 Backtracking is a general algorithmic technique that systematically explores all possible combinations to find solutions. It traverses different paths, discarding those that cannot lead to valid solutions. The repository offers examples of backtracking algorithms, demonstrating their efficiency in solving complex problems.
 
-## Randomized Algorithms
-
-Randomized algorithms leverage randomness to tackle problem-solving. They are particularly useful for problems that cannot be deterministically solved or for improving the average-case complexity. The repository includes examples of randomized algorithms, highlighting their effectiveness and versatility.
 
 Feel free to explore the algorithm examples in each category and delve into the provided implementation details and code files for a deeper understanding.
 
