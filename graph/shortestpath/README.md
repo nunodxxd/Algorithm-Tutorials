@@ -4,7 +4,7 @@ Dijkstra's algorithm is a popular algorithm used to find the shortest path betwe
 
 # Code Explanation 
 
-In the above code, the dijkstra function takes two arguments: graph, which represents the graph structure, and start, which is the starting node for the shortest path calculation. The function returns a dictionary distances that contains the shortest distances from the starting node to all other nodes in the graph.
+In the code, the dijkstra function takes two arguments: graph, which represents the graph structure, and start, which is the starting node for the shortest path calculation. The function returns a dictionary distances that contains the shortest distances from the starting node to all other nodes in the graph.
 
 The algorithm begins by initializing all distances with infinity except for the start node, which is set to 0. It also creates an empty set visited to store the visited nodes.
 
