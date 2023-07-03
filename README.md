@@ -35,8 +35,9 @@ Greedy algorithms aim to solve optimization problems by making locally optimal c
 
 ## Backtracking
 
-Backtracking is a general algorithmic technique that systematically explores all possible combinations to find solutions. It traverses different paths, discarding those that cannot lead to valid solutions. The repository offers examples of backtracking algorithms, demonstrating their efficiency in solving complex problems.
+Backtracking is a general algorithmic technique that systematically explores all possible combinations to find solutions. It traverses different paths, discarding those that cannot lead to valid solutions. The repository offers examples of backtracking algorithms, demonstrating their efficiency in solving complex problems. This repository includes the following graph algorithm:
 
+- N-Queens Problem
 
 Feel free to explore the algorithm examples in each category and delve into the provided implementation details and code files for a deeper understanding.
 
