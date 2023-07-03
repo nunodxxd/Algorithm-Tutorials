@@ -4,7 +4,7 @@ The Flood Fill algorithm has several practical applications. Here are some of it
 - Image/Fill Coloring: The Flood Fill algorithm can be used to fill closed regions or areas in an image with a specific color or pattern. 
 - Image Editing: In image editing software, the Flood Fill algorithm can be used for tasks like removing backgrounds or replacing certain colors with others. 
 - Boundary Detection: The Flood Fill algorithm can also be used to detect boundaries or contours within an image. 
-- Maze Solving: The Flood Fill algorithm can be applied to solve mazes. By systematically exploring adjacent cells and marking visited areas, it helps in finding paths or determining the connectivity of a maze.
+
 
 # Code Explanation 
 
