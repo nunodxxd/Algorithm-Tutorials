@@ -24,6 +24,7 @@ Graph algorithms provide solutions to problems related to graphs, which are fund
 - Dijkstra Shortest Path
 - Breadth First Search
 - Flood Fill
+- Floyd-Warshall
 
 ## Dynamic Programming
 
