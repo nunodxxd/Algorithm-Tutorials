@@ -19,7 +19,7 @@ Efficient algorithms exist to tackle the common task of searching for an element
 
 ## Graph Algorithms
 
-Graph algorithms provide solutions to problems related to graphs, which are fundamental data structures capable of representing various real-world scenarios. This repository includes the following graph algorithm:
+Graph algorithms provide solutions to problems related to graphs, which are fundamental data structures capable of representing various real-world scenarios. This repository includes the following graph algorithms:
 
 - Dijkstra Shortest Path
 - Breadth First Search
