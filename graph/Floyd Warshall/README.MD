@@ -6,6 +6,16 @@ The Floyd-Warshall algorithm is an algorithm for finding the shortest paths betw
 - The Roy–Floyd algorithm 
 - WFI algorithm
 
+Main use cases of the Floyd-Warshall algorithm:
+
+- Shortest Path Calculation: The algorithm can be used to find the shortest paths between all pairs of vertices in a graph. This is valuable in various applications such as network routing, transportation planning, and logistics optimization.
+
+- Graph Analysis: The algorithm allows you to analyze the connectivity and distances between all pairs of vertices in a graph. This can be useful in social network analysis, identifying central nodes, and understanding the overall structure of the graph.
+
+- Negative Weighted Graphs: Unlike some other shortest path algorithms like Dijkstra's algorithm, Floyd-Warshall can handle graphs with negative edge weights. This makes it useful in scenarios where negative weights are involved, such as analyzing financial transactions or modeling certain problem domains.
+
+- All-Pairs Shortest Paths: The algorithm provides a comprehensive solution by computing the shortest paths between all pairs of vertices in a graph. This can save computational time and effort compared to running individual shortest path algorithms for each pair of vertices.
+ 
 
 # Code Explanation 
 
